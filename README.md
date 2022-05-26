@@ -4,7 +4,7 @@
 # Hi, I'm Patrick <img style="margin-left: 20px" src="https://komarev.com/ghpvc/?username=jpstorio&label=Profile%20views&color=0e75b6&style=flat" alt="jpstorio" />
   
 
-- 🌱 Currently learning JavaScript and ReactJS  
+- 🌱 Currently learning APIs and ReactJS  
   
 
 <br/>  
