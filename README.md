@@ -16,7 +16,7 @@
 
 ## My Skill Set  
 
-
+/*
 ### Tech Stack  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -49,3 +49,4 @@
 </div>  
 
 <br /> 
+*/
