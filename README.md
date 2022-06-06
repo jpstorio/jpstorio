@@ -1,11 +1,10 @@
  
+<div align=center>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=2000&center=true&vCenter=true&lines=Front-end+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=2000&center=true&vCenter=true&lines=Front-end+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
 <br>
 # Hi, I'm Patrick <img style="margin-left: 20px" src="https://komarev.com/ghpvc/?username=jpstorio&label=Profile%20views&color=0e75b6&style=flat" alt="jpstorio" />
-
-  
- 
 
 <br/>  
 <br>
