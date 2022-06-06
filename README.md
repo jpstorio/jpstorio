@@ -1,6 +1,6 @@
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=1000&vCenter=true&width=200&lines=Hi!;I'm+Patrick)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=1000&vCenter=true&width=200&lines=Hi!;I'm+Patrick)](https://git.io/typing-svg)
 <!----# Hi, I'm Patrick --><img style="margin-left: 20px" src="https://komarev.com/ghpvc/?username=jpstorio&label=Profile%20views&color=0e75b6&style=flat" alt="jpstorio" />
   
  
